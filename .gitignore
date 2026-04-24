@@ -1,0 +1,14 @@
+# Build output
+build/
+*.bin
+*.elf
+*.map
+
+# PlatformIO
+.pio/
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
